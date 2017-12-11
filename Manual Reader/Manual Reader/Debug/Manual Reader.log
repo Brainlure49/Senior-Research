@@ -1,0 +1,3 @@
+﻿  Manual Reader.cpp
+c:\users\ben\desktop\school\research\manual reader\manual reader\manual reader.cpp(109): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+  Manual Reader.vcxproj -> C:\Users\Ben\Desktop\School\Research\Manual Reader\Debug\Manual Reader.exe
